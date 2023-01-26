@@ -46,7 +46,7 @@ inquirer
         {
             type: "input",
             message: "Please tell others how they can contribute: ",
-            name: "coontribution"
+            name: "contribution"
         },
         {
             type: 'input',
