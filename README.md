@@ -13,7 +13,7 @@
 <a name="description"></a>
 ## Description: 
 I was motivated to show off the new skills I have learned.
-So other developers can quickly generate a professional README.md file.
+It was built so other developers can quickly generate a professional README.md file.
 It allows people with less experience in markdown to create a professional README file in minutes.
 I learned that Command line applications exist, and are very useful in everyday life.
 
