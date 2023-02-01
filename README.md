@@ -46,5 +46,5 @@ MIT license
 If you have any questions regarding me and my website please contact me with the links below.
 
 ### Contact me:
-email: name@person.com
+email: nate4970@gmail.com
 github: <a href="github.com/nate-kleinsorge">github account</a>
