@@ -1,4 +1,4 @@
-# I love coding
+# Challenge 9 Professional README generator
 
 ## Table of Contents:
 1. [Description](#description)
@@ -13,8 +13,8 @@
 <a name="description"></a>
 ## Description: 
 I was motivated to show off the new skills I have learned.
-so other developers can quickly generate a professional README.md file.
-It allows people with less experience in markdown to creat a professional README file in minutes.
+So other developers can quickly generate a professional README.md file.
+It allows people with less experience in markdown to create a professional README file in minutes.
 I learned that Command line applications exist, and are very useful in everyday life.
 
 <a name="installation"></a>
@@ -47,4 +47,4 @@ If you have any questions regarding me and my website please contact me with the
 
 ### Contact me:
 email: name@person.com
-github: <a href=github.com/nate-kleinsorge>github account</a>
+github: <a href="github.com/nate-kleinsorge">github account</a>
