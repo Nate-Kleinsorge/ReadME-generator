@@ -121,7 +121,7 @@ If you have any questions regarding me and my website please contact me with the
 
 ### Contact me:
 email: ${data.email}
-github: <a href=github.com/${data.github}>github account</a>`, 
+github: <a href="https://github.com/${data.github}">${data.github}</a>`, 
 
         (err) => {
                 if (err) {
