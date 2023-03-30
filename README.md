@@ -5,9 +5,8 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [How to Contribute](#contribute)
-5. [License](#license)
-6. [Tests](#tests)
-7. [Questions](#questions)
+5. [Tests](#tests)
+6. [Questions](#questions)
 
 <a name="description"></a>
 ## Description: 
