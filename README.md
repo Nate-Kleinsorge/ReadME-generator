@@ -1,13 +1,13 @@
-# 
+# Professional README generator
 
 ## Table of Contents:
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-5. [How to Contribute](#contribute)
-6. [License](#license)
-7. [Tests](#tests)
-8. [Questions](#questions)
+4. [How to Contribute](#contribute)
+5. [License](#license)
+6. [Tests](#tests)
+7. [Questions](#questions)
 
 <a name="description"></a>
 ## Description: 
